@@ -135,16 +135,16 @@
 /* background media query */
 
 @media (max-width: 1309px) {
-    height: 30rem;
+   
     .background{
-/*         background: url(image/people-hands-together.jpg); */
+        height: 30rem;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
     }
 
     .vail{
-        height: 36rem;
+        height: 30rem;
     }
 
 
